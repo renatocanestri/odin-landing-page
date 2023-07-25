@@ -186,4 +186,5 @@ img {
     width: 200px;
     min-width: 200px;
     border-radius: 16px;
+    height: auto;
 }
